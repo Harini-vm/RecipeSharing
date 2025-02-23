@@ -23,7 +23,7 @@ export default function HeroSection(){
                 </div>
             </div>
             <div className="col">
-                col2
+                
             </div>
         </div>
     )
